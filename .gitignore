@@ -1,3 +1,5 @@
+.DS_Store
+.vscode
 Images
 .ipynb_checkpoints
 zip
@@ -7,3 +9,7 @@ pranav/train_df1
 pranav/train_df1_img
 saatvik/train_df2
 saatvik/train_df2_img
+aditya/Deepfakes
+aditya/Deepfakes_img
+aditya/original
+aditya/original_img
